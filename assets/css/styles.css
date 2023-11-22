@@ -1,0 +1,8 @@
+.navbar:hover {
+  background-color: var(--bs-teal);
+}
+
+a:hover {
+  background-color: var(--bs-danger);
+}
+
